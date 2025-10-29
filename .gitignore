@@ -16,3 +16,11 @@ Thumbs.db
 pip-wheel-metadata/
 build/
 dist/
+
+streamlit
+requests
+python-dotenv
+
+
+
+
