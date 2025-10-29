@@ -1,28 +1,18 @@
-# Python
+# Entornos virtuales
+venv/
+.env
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-env/
-venv/
-.venv/
+
+# Editor y sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Streamlit local config
+.streamlit/
+
+# Otros
 pip-wheel-metadata/
 build/
 dist/
-
-# VS Code
-.vscode/
-
-# Environments
-.env
-
-# Byte-compiled / caches
-*.egg-info/
-.eggs/
-
-# Sistema
-Thumbs.db
-.DS_Store
-
-# Streamlit
-.streamlit/
