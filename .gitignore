@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+
+# Byte-compiled / caches
+*.egg-info/
+.eggs/
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Streamlit
+.streamlit/
